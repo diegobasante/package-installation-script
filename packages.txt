@@ -1,0 +1,9 @@
+atom:add
+gdebi:add
+google-chrome:add
+firefox:add
+brave:add
+python3.8:status
+apache2:status
+vim:status
+vlc:remove
